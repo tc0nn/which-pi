@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo Revision        Release Date    Model   PCB Revision    Memory  Notes
 MODELNUM=`cat /proc/cpuinfo | grep 'Revision' | awk '{print $3}' | sed 's/^1000//'`
 echo `grep $MODELNUM $0`
 MODELS='
