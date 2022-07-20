@@ -43,4 +43,8 @@ a02100	Q1 2019	Compute Module 3+	1.0	1 GB	(Mfg by Sony)
 a03111	Q2 2019	4 Model B	1.1	1 GB	(Mfg by Sony)
 b03111	Q2 2019	4 Model B	1.1	2 GB	(Mfg by Sony)
 c03111	Q2 2019	4 Model B	1.1	4 GB	(Mfg by Sony)
+c03112	Q2 2019	4 Model B	1.2	4 GB	(Mfg by Sony)
+c03114	Q2 2020	4 Model B	1.4	4 GB	(Mfg by Sony)
+d03114	Q2 2020	4 Model B	1.4	8 GB	(Mfg by Sony)
+902120	Q4 2021	Zero 2 W	1.0	512 MB	(Mfg by Sony)
 '
